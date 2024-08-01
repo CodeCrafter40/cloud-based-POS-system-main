@@ -82,3 +82,8 @@ This POS system delivers a seamless and efficient retail experience, focusing on
 
 - **Interoperability:**  
   - Enabled seamless integration with third-party tools and services, improving overall system functionality.
+
+## Snapshot:
+
+![image](https://github.com/user-attachments/assets/a7e6af78-e980-4880-8dcc-fc75fbbd8d23)
+
