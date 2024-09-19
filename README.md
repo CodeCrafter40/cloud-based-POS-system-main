@@ -30,6 +30,21 @@ This POS system delivers a seamless and efficient retail experience, focusing on
 
 ## Integrations and Tech Stack:
 
+## Badges
+
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.10-brightgreen?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.33-blue?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-v1.0-lightgrey?logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0.4-blue?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow?logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.41.0-fc6d26?logo=git&logoColor=white)
+
+
 ### Technologies Used:
 - **Frontend:**  
   - JavaScript (React) for a responsive and interactive user interface.
